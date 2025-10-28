@@ -35,8 +35,6 @@ This includes all commands related to **network configuration**, such as:
 - IP commands  
 - Other IP commands (e.g., `show ip route`)
 
----
-
 ## Program
 
 ### `client.py`
