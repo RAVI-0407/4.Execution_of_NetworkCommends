@@ -72,7 +72,6 @@ while True:
     except: c.send(b"Ping error")
 
 c.close()
- 
 ```
 
 ## Output
